@@ -3,7 +3,7 @@
 	Copyright: 
 	Author: 
 	Date: 17-02-20 03:20
-	Description: TSP witrh A*
+	Description: TSP with A*
 */
 #include<stdio.h>
 #include<malloc.h>
